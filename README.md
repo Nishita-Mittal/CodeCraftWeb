@@ -82,13 +82,13 @@ CodeCraftWeb/
 
 ## 📌 Future Enhancements
 
-1.Add JavaScript for animations and smooth transitions
-2.Include search & filter functionality
-3.Make it a fully responsive website for all screen sizes
+1.Add JavaScript for animations and smooth transitions<br>
+2.Include search & filter functionality<br>
+3.Make it a fully responsive website for all screen sizes<br>
 
 ---
 
 ## 👩‍💻 Author
 
 Nishita Mittal
-- 📫 Reach me on GitHub
+📧 nishitamittal0816@gmail.com
