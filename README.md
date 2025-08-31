@@ -18,34 +18,34 @@ Each category includes **5–6 items**, with **clickable images**. When clicked,
 ## 📂 Project Structure  
 
 CodeCraftWeb/
-│── index.html
-│── nightlife.html
-│── restaurants.html
-│── activities.html
-│── places.html
-│── style.css
-│── README.md
-│
-└── images/
-├── nightlife/
-│ ├── templebar1.jpg
-│ ├── templebar2.jpg
-│ └── ...
-│
-├── restaurants/
-│ ├── winding1.jpg
-│ ├── winding2.jpg
-│ └── ...
-│
-├── activities/
-│ ├── bike1.jpg
-│ ├── bike2.jpg
-│ └── ...
-│
-└── places/
-├── trinity1.jpg
-├── trinity2.jpg
-└── ...
+│── index.html<br>
+│── nightlife.html<br>
+│── restaurants.html<br>
+│── activities.html<br>
+│── places.html<br>
+│── style.css<br>
+│── README.md<br>
+│<br>
+└── images/<br>
+├── nightlife/<br>
+│ ├── templebar1.jpg<br>
+│ ├── templebar2.jpg<br>
+│ └── ...<br>
+│<br>
+├── restaurants/<br>
+│ ├── winding1.jpg<br>
+│ ├── winding2.jpg<br>
+│ └── ...<br>
+│<br>
+├── activities/<br>
+│ ├── bike1.jpg<br>
+│ ├── bike2.jpg<br>
+│ └── ...<br>
+│<br>
+└── places/<br>
+├── trinity1.jpg<br>
+├── trinity2.jpg<br>
+└── ...<br>
 
 
 ---
@@ -57,43 +57,38 @@ CodeCraftWeb/
 ---
 
 ## 🚀 Features  
-✔️ Symmetrical, consistent design across all pages  
-✔️ Popup image viewer with **black background**  
-✔️ **Clickable images** for each place/item  
-✔️ Bigger, bold headings for clarity  
-✔️ Organized folder structure for easy navigation  
+- ✔️ Symmetrical, consistent design across all pages  
+- ✔️ Popup image viewer with **black background**  
+- ✔️ **Clickable images** for each place/item  
+- ✔️ Bigger, bold headings for clarity  
+- ✔️ Organized folder structure for easy navigation  
 
 ---
 
 ## 🖥️ How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Nishita-Mittal/CodeCraftWeb.git
+1. Clone the repository: git clone https://github.com/Nishita-Mittal/CodeCraftWeb.git
+2. Open the folder in VSCode (or any editor).
+3. Open index.html in your browser.
 
-Open the folder in VSCode (or any editor).
+---
 
-Open index.html in your browser.
+## 📸 Preview
 
-📸 Preview
+- ✨ Homepage with navigation
+- ✨ Category pages (Nightlife, Restaurants, Activities, Places)
+- ✨ Popup image viewer
 
-✨ Homepage with navigation
-✨ Category pages (Nightlife, Restaurants, Activities, Places)
-✨ Popup image viewer
+---
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
-Add JavaScript for animations and smooth transitions
+1.Add JavaScript for animations and smooth transitions
+2.Include search & filter functionality
+3.Make it a fully responsive website for all screen sizes
 
-Include search & filter functionality
+---
 
-Make it a fully responsive website for all screen sizes
-
-👩‍💻 Author
+## 👩‍💻 Author
 
 Nishita Mittal
-
-🌟 Passionate about Web Development & AI
-
-💻 Exploring Frontend + Backend projects
-
-📫 Reach me on GitHub
+- 📫 Reach me on GitHub
